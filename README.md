@@ -10,9 +10,9 @@ flags, etc.
 - caution: automatically makes dir if not present
 
 - Default mappings
-  - <C-h><C-h> -> setup
-  - <C-h>d -> open docs
-  - <C-h>t -> open tests
+  - `<C-h><C-h>` -> setup
+  - `<C-h>d` -> open docs
+  - `<C-h>t` -> open tests
 
 ## Assumed structure
 
