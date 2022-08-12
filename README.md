@@ -4,6 +4,16 @@ Connecting sphinx to code, so commentary can be kept separate. Help should be
 as easy to use as neovim's native help, esp wrt copying example usage, checking
 flags, etc.
 
+## Usage
+
+- simply opens a *corresponding* file to the present python file.
+- caution: automatically makes dir if not present
+
+- Default mappings
+  - <C-h><C-h> -> setup
+  - <C-h>d -> open docs
+  - <C-h>t -> open tests
+
 ## Assumed structure
 
 `tests` and `docs` mirror file structure of `lib`.
